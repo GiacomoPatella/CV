@@ -8,7 +8,7 @@ I'm now open to job opportunities in front and back end development.
 <br />
 
 ## PROJECTS
-***
+---
 
 ##### TWITTER TIMELINE
 To practice our CSS skills I made a replica of Twitter's timeline down to the pixel.
@@ -17,7 +17,7 @@ I used Bootstrap 3 and Twitter's own stripes to create the navbar but everything
 
 ##### MAKERS APP UI DESIGN
 During the Christmas break I took a couple of days off coding to try out Sketch 2, a professional vector-based grpahic editor. To practice I decided to mock-up a UI design for a possible mobile app for Makers Academy.
-All icons, menus and shapes (apart from the iphone casing) are designed by me.  
+All icons, menus and shapes (apart from the iphone casing) are designed by me. 
 All copy is from Makers Academy's offical website. [DESIGN ON GITHUB](https://github.com/GiacomoPatella/makers_app)
 
 ##### SUDOKU
