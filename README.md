@@ -26,7 +26,7 @@ Evgeny Shadchev (@shadchnev) provided me with instruction on how to set up Sinat
 This web app could be improved by more integration tests and a more sophisticated puzzle generator that would check if there is only one solution to a new puzzle. [ONLINE](http://staging-sudoku-online.herokuapp.com/) / [ALTERNATE VERSION](http://sudoku-online.herokuapp.com/)/// [CODE ON GITHUB](https://github.com/GiacomoPatella/sudoku_web)
 
 ##### CROWDDED
-As one of the 5 members of the team for our final project at Makers Academy I was in charge of mocking up the website pages in Photoshop for our crowd-funding website. After reviewing the designs with the rest of the team, I proceeded to code the pages in HTML, CSS3, jQuery, Javascript on top of the ZURB Foundation framework. We had some issues deploying to Heroku so unfortunately at the moment I can only provide you with screenshots of my work. [GITHUB]()
+As one of the 5 members of the team for our final project at Makers Academy I was in charge of mocking up the website pages in Photoshop for our crowd-funding website. After reviewing the designs with the rest of the team, I proceeded to code the pages in HTML, CSS3, jQuery, Javascript on top of the ZURB Foundation framework. We had some issues deploying to Heroku so unfortunately at the moment I can only provide you with screenshots of my work. [GITHUB](https://github.com/GiacomoPatella/crowdded_design)
 
 ##### RUBY FUNDAMENTALS
 This was a basic question & answer test to brush up on our Ruby skills during the last few days at Makers Academy. The aim was to pass the test and using semantic and neat code.
@@ -35,6 +35,10 @@ All my answers are on Github. [GITHUB](https://github.com/GiacomoPatella/ruby-fu
 <br />
 ## SKILLS
 ---
+* HTML5, ERB and Haml
+* CSS3, Sass and Bootstrap 3
+* JavaScript, jQuery and CoffeeScript
+* Version control with git and GitHub
 * Agile values, principles and practice
 * Object­ oriented principles and design
 * Test­ driven development
@@ -44,16 +48,10 @@ All my answers are on Github. [GITHUB](https://github.com/GiacomoPatella/ruby-fu
 * PostgreSQL
 * Sinatra and DataMapper
 * Unit testing with RSpec and Jasmine
-* Integration testing with Capybara
 * FactoryGirl fixtures and Shoulda matchers
-* Version control with git and GitHub
-* JavaScript, jQuery and CoffeeScript
-* HTML5, ERB and Haml
-* CSS3, Sass and Bootstrap 3
 * WebSockets
 * User authentication and authorisation with bcrypt and Devise
 * Integration of APIs including Twilio, Stripe and Paperclip
-* Mailgun API with RestClient
 * GitHub Flavoured Markdown
 * Deployment to Heroku
   
