@@ -1,8 +1,8 @@
 # Giacomo Patella
 ---
 I'm a junior web developer and label manager of independent record label Five Fold Records.  
-After doing a web design course as a teenager in 1998 (back in the Notepad days), I took a different route into the music industry but never lost my fascination for coding. I attended Makers Academy to acquire long-desired programming skills and I was thought by some of the best programmers around such as Evgeny Shadchnev, Enrique Comba Ripenhausen, Alex Peattie ans Stephen Lloyd.  
-I'm now open to job opportunities in front and back end development.  
+After doing a web design course as a teenager in 1998 (back in the Notepad days), I took a different route into the music industry but never lost my fascination for coding. I attended Makers Academy to acquire long-desired programming skills and I was thought by some of the best programmers around such as Evgeny Shadchnev, Enrique Comba Ripenhausen, Alex Peattie and Stephen Lloyd.  
+I'm now open to job opportunities in front end development and web design.  
   
 <br />
 <br />
@@ -12,7 +12,7 @@ I'm now open to job opportunities in front and back end development.
 
 ##### TWITTER TIMELINE
 To practice our CSS skills I made a replica of Twitter's timeline down to the pixel.
-I had some initial difficulties in positioning an layering divs on top of each other but in the end it all worked well.
+I had some initial difficulties in positioning and layering divs on top of each other but in the end it all worked well.
 I used Bootstrap 3 and Twitter's own stripes to create the navbar but everything else on the page is my own CSS. This page could be improved with jQuery to simulate the infinte scrolling of the timeline. [GITHUB](https://github.com/GiacomoPatella/twitter_timeline).
 
 ##### MAKERS APP UI DESIGN
